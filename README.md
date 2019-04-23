@@ -16,7 +16,7 @@ The Added interface:
 
 The remove and added dialog interface:
 
-![image](https://github.com/229394/DailyAccounting/blob/master/screenshots/remove%29and%20edit%20dialog.png)
+![image](https://github.com/229394/DailyAccounting/blob/master/screenshots/remove%20and%20edit%20dialog.png)
 
 The Edited Drink interface:
 

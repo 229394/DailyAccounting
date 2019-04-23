@@ -8,20 +8,20 @@ The main interface:
 
 The Add interface:
 
-![image](https://github.com/229394/DailyAccounting/blob/master/screenshots/to be added.png)
+![image](https://github.com/229394/DailyAccounting/blob/master/screenshots/to%20be%20added.png)
 
 The Added interface:
 
-![image](https://github.com/229394/DailyAccounting/blob/master/screenshots/have been added.png)
+![image](https://github.com/229394/DailyAccounting/blob/master/screenshots/have%20been%20added.png)
 
 The remove and added dialog interface:
 
-![image](https://github.com/229394/DailyAccounting/blob/master/screenshots/remove and edit dialog.png)
+![image](https://github.com/229394/DailyAccounting/blob/master/screenshots/remove%29and%20edit%20dialog.png)
 
 The Edited Drink interface:
 
-![image](https://github.com/229394/DailyAccounting/blob/master/screenshots/edit drink.png)
+![image](https://github.com/229394/DailyAccounting/blob/master/screenshots/edit%20drink.png)
 
 The Removed Drink interface:
 
-![image](https://github.com/229394/DailyAccounting/blob/master/screenshots/remove drink.png)
+![image](https://github.com/229394/DailyAccounting/blob/master/screenshots/remove%20drink.png)
